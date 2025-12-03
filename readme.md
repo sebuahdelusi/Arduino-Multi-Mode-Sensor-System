@@ -48,3 +48,5 @@ Based on the source code, connect your components to the following pins on the A
 4.  **Controls:**
     * **Button:** Press the button connected to Pin 3 to cycle through modes (0-4).
     * **Serial Monitor:** Open Serial Monitor (Baud 9600) and type `0`, `1`, `2`, `3`, or `4` to jump to a specific mode immediately.
+
+Friday, 26 September 2025, 1:45 PM
